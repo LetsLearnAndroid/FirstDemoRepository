@@ -1,5 +1,3 @@
 following Git commands along with executing commands on local repository. creating another demo (locally)
 
-more changes in a copy
-
-few more changes in existing committed file.
+one more copy of same file
